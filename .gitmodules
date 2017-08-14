@@ -7,9 +7,14 @@
 [submodule "doom/src/main/jni/gzdoom"]
 	path = doom/src/main/jni/gzdoom
 	url = https://github.com/coelckers/gzdoom.git
+	branch = master
 [submodule "doom/src/main/jni/MobileTouchControls"]
 	path = doom/src/main/jni/MobileTouchControls
 	url = https://github.com/nvllsvm/MobileTouchControls.git
 [submodule "TouchControls"]
 	path = TouchControls
 	url = https://github.com/nvllsvm/TouchControls.git
+[submodule "gzdoom"]
+	path = gzdoom
+	url = https://github.com/coelckers/gzdoom.git
+	branch = master
